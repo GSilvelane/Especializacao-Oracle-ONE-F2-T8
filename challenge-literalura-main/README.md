@@ -3,7 +3,7 @@
 Projeto desenvolvido por **Silvelane Gomes** como parte do **Challenge da Alura**, com foco em **busca, listagem e análise estatística de livros e autores** utilizando a API Gutendex e persistência de dados com Spring Boot.
 
 ## Badge literalura:
-<img src="badge-literatura.png" width="80px">
+<img src="img/badge-literalura.png" width="80px">
 
 ## 🚀 Tecnologias Utilizadas
 
